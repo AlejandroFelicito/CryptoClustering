@@ -63,22 +63,22 @@ To receive all points, you must:
 
 ### Visualize and Compare the Results (15 points)
 To receive all points, you must:
-- [] Create a composite plot by using hvPlot and the plus sign (+) operator to compare the elbow curve that you created from the original data with the one that you created from the PCA data. (5 points)
-- [] Create a composite plot by using hvPlot and the plus (+) operator to compare the cryptocurrency clusters that resulted from using the original data with those that resulted from the PCA data. (5 points)
-- [] Answer the following question: Based on visually analyzing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means? (5 points)
+- [x] Create a composite plot by using hvPlot and the plus sign (+) operator to compare the elbow curve that you created from the original data with the one that you created from the PCA data. (5 points)
+- [x] Create a composite plot by using hvPlot and the plus (+) operator to compare the cryptocurrency clusters that resulted from using the original data with those that resulted from the PCA data. (5 points)
+- [x] Answer the following question: Based on visually analyzing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means? (5 points)
 
 
 ### Coding Conventions and Formatting (10 points)
 To receive all points, you must:
 - [X] Place imports at the top of the file, just after any module comments and docstrings, and before module globals and constants. (3 points)
 - [X] Name functions and variables with lowercase characters, with words separated by underscores. (2 points)
-- [] Follow DRY (Don't Repeat Yourself) principles, creating maintainable and reusable code. (3 points)
+- [X] Follow DRY (Don't Repeat Yourself) principles, creating maintainable and reusable code. (3 points)
 - [X] Use concise logic and creative engineering where possible. (2 points)
 
 
 ### Deployment and Submission (10 points)
 To receive all points, you must:
-- [] Submit a link to a GitHub repository that’s cloned to your local machine and that contains your files. (4 points)
+- [X] Submit a link to a GitHub repository that’s cloned to your local machine and that contains your files. (4 points)
 - [X] Use the command line to add your files to the repository. (3 points)
 - [X] Include appropriate commit messages in your files. (3 points)
 
